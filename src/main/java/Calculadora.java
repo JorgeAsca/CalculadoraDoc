@@ -11,6 +11,7 @@ public class Calculadora {
      * @param a primer entero
      * @param b segundo entero
      * @return la suma de los dos enteros
+     * @cambios string = "cambios";
      */
 
     public int sumar(int a, int b) {
